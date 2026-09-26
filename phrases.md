@@ -1,7 +1,9 @@
 # Seed phrases
 
-This file establishes the phrase-record format before the full conversation
-sweep.
+This file establishes the phrase-record format. The September 26 history pass
+is in [history-variants.md](history-variants.md), including older forms omitted
+from these eight seeds. Historical assistant translations remain distinguishable
+from checked learning targets.
 
 Default target: **Yemeni Arabic**. Existing remembered forms are preserved with
 their actual dialect status instead of being silently rewritten.
@@ -102,3 +104,27 @@ make each one natural. In particular, distinguish:
 - wording that is technically grammatical but sounds bookish;
 - wording that is dictionary-correct yet evokes the wrong association in a
   native listener.
+
+## 9. Rest for five minutes.
+
+- Recovered Arabic: `ارتاح خمس دقايق`
+- Recovered transliteration: `irtāḥ khams daqāyiq`
+- English: "Rest for five minutes."
+- Source: historical assistant reply, 2025-06-05 06:47:54 UTC.
+- Intended use: friendly permission to rest while the technician fixes a
+  workstation, not an assertion of managerial authority.
+- Address: masculine singular in the recovered explanation.
+- Dialect: colloquial; exact Yemeni regional acceptance remains unchecked.
+- Variant: `Rūḥ, irtāḥ khams daqāyiq` — "Go, rest five minutes."
+  Its Arabic script was not returned in the recovered passage, so it is not
+  silently reconstructed here.
+
+## 10. I just started learning Arabic.
+
+- Recovered Arabic: `لقد بدأتُ للتوّ في تعلُّم اللغة العربية.`
+- Transliteration: `Laqad badaʾtu lil-tawwi fī taʿallumi al-lughati al-ʿarabiyya.`
+- English: "I have just started learning Arabic."
+- Shorter historical variant: `بدأتُ للتوّ` — `Badaʾtu lil-tawwi` — "I just started."
+- Sources: assistant replies, 2026-06-22 22:03:28 and 22:03:40 UTC.
+- Register: formal written Arabic; preserved as a historical variant, not
+  relabelled as everyday Yemeni speech.
