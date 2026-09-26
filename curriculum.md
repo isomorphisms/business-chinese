@@ -16,6 +16,16 @@ automotive or body-shop environment.
 - status questions: what happened, what needs to be fixed, what are we waiting
   for, is this ready.
 
+## Working set
+
+See [`auto-shop.md`](auto-shop.md) for the first practical automotive-shop
+corpus: suspension and electrical parts, hand tools, multimeter and voltage-drop
+diagnostics, movement/play/condition words, and short coworker phrases.
+
+Use neutral Levantine/Mashreqi spoken Arabic. Keep common English shop loanwords
+when they are more useful in a mixed US shop than forcing a single regional
+Arabic term.
+
 ## Coworker conversation
 
 Include break/lunch/help language and ordinary social conversation, not only
